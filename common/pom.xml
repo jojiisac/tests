@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		
+		<groupId>co.joji</groupId>
+		<artifactId>weather-prediction-parent</artifactId>
+		<version>${app.version}</version>
+	
+	</parent>
+	<groupId>co.joji</groupId>
+	<artifactId>weather-prediction-common</artifactId>
+	<version>${app.version}</version>
+	<name>weather-prediction-common</name>
+	<description>Project for common code</description>
+
+	
+</project>
